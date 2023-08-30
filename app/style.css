@@ -1,5 +1,5 @@
 .kk {
-  background-image: url(pondicherry-lighthouse.jpg);
+  background-image: url(assets/pondicherry-lighthouse.jpg);
   background-size: cover;
   height: 700px;
   width: 100%;
@@ -9,6 +9,8 @@
   display: flex;
   justify-content: space-around;
   text-align: center;
+  background-color: rgb(245, 243, 243);
+  padding: 20px;
 }
 .centre {
   text-align: center;
@@ -23,4 +25,22 @@
   margin-left: 100px;
   font-size: 19px;
   font-family: sans-serif;
+}
+.places img{
+  border-radius: 250px;
+}
+.dp-flex{
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.footer{
+  width: 550px;
+  height: 200px;
+  margin: 20px auto 20px auto;
+  background-color: antiquewhite
+}
+.tour-guide{
+  margin-left: 76px;
+    font-family: serif;
 }
