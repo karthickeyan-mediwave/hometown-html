@@ -1,7 +1,7 @@
-## reference free code camp
+## Reference free code camp
 
-### use html and css create a simple hometown homwpage.
+### Use html and css create a simple hometown homepage.
 
-### to run
+### To run
 
 ### $ npx serve app
